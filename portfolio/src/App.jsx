@@ -2,8 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/home/Home';
 import About from './components/About';
-import Skills from './components/Skills';
-import Portfolio from './components/Portfolio';
+import Skills from './components/skills/Skills';
+import Portfolio from './components/portfolio/Portfolio';
 import Navbar from './components/navbar/Navbar';
 import ContactMe from './components/ContactMe';
 

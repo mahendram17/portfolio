@@ -19,14 +19,13 @@ function Home() {
   return (
     <div className="home-container ">
       <div className="intro-section">
-        <h2>Hello, I am</h2>
+        <h1>Hello, I am</h1>
         <h1>Raj Mane</h1>
         <h3>Front-end Developer / UI Designer</h3>
         <div className="social-icons">
           {/* Add icons as per your design */}
-          <a href="mailto:example@gmail.com">@</a>
-          <a href="https://github.com">GitHub</a>
-          <a href="https://linkedin.com">LinkedIn</a>
+          <a href="linkedin.com"><img src='/images/linkedin.png' width="30px"/></a>
+          <a href='github.com'><img src='/images/github.png' width="30px"/></a>
         </div>
       </div>
       <div className="image-section">

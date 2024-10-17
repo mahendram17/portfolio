@@ -5,6 +5,8 @@
     justify-content: space-between;
     align-items: center;
     /* padding: 20px 50px; */
+    padding: 10px 30px;
+
     background-color: black; /* Light gray background to match the design */
     position: fixed;
     top: 0;
@@ -39,22 +41,7 @@
     color: #e20074; /* Hover color matching the button theme */
   }
   
-  .contact-button {
-    background-color: #e20074;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 25px;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: 500;
-    transition: background-color 0.3s ease;
-  }
-  
-  .contact-button:hover {
-    background-color: #d10068; /* Slightly darker shade on hover */
-  }
-  
+ 
   @media (max-width: 768px) {
     /* Responsive adjustments for smaller screens */
     .nav-links {

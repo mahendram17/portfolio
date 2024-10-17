@@ -26,15 +26,15 @@ border-radius: 5px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-left: 4em;
   
 }
 
-h1, h2, h3 {
-  margin: 0;
-}
+
 
 .social-icons {
   margin-top: 20px;
+  display: flex;
 }
 
 .social-icons a {
