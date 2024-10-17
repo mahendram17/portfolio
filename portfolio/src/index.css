@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  main {
+    padding-top: 55px; /* Adjust this based on your navbar height */
+  }
+}
+
+
