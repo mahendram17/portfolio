@@ -37,9 +37,7 @@
     font-weight: 500;
   }
   
-  .nav-links a:hover {
-    color: #e20074; /* Hover color matching the button theme */
-  }
+  
   
  
   @media (max-width: 768px) {

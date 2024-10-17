@@ -5,7 +5,7 @@ function Skills() {
     return (<div>
         {/* Heading */}
         <div className="heading">SKILLS</div>
-        <div className="flex items-center justify-center ">
+        <div className="flex ml-5 justify-center">
       <div>
         {/* First Row of Images */}
         <div className="grid grid-cols-4 gap-16 mb-4">

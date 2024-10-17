@@ -30,7 +30,10 @@ border-radius: 5px;
   
 }
 
-
+h1,h2,h3{
+  font-size: revert !important;
+  font-weight: revert !important;
+}
 
 .social-icons {
   margin-top: 20px;
